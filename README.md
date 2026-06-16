@@ -5,6 +5,20 @@
 ![RStudio](https://img.shields.io/badge/IDE-RStudio-75AADB?logo=rstudio)
 ![Quarto](https://img.shields.io/badge/Docs-Quarto-39729E?logo=quarto)
 
+
+<div align="center">
+  <img src="img/ephi_logo.png" alt="EPHI Logo" height="120">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="img/rtsl1.png" alt="Resolve to Save Lives Logo" height="120">
+</div>
+
+<p align="center">
+  <strong>National Data Management and Analytics Center (NDMC), EPHI</strong><br>
+  in collaboration with<br>
+  <strong>Resolve to Save Lives (RTSL)</strong>
+</p>
+
+
 ---
 
 **Authors**: [Leykun Getaneh](https://github.com/leykunget) and [Yebelay Berehan](https://github.com/Yebelay)
