@@ -69,7 +69,7 @@ By the end of the training, participants will be able to:
 
 | Module                          | HTML        | PDF             |
 | ------------------------------- | ----------- | --------------- |
-| Introduction to R & Data import export | 🔗 [View]() | ⬇️ [Download]() |
+| Introduction to R & Data import export | 🔗 [View](https://leykungetaneh.quarto.pub/introduction-to-r-and-rstudio-8ea6/#/title-slide) | ⬇️ [Download]() |
 | Data Management (dplyr)         | 🔗 [View]() | ⬇️ [Download]() |
 | Data Visualization (ggplot2)    | 🔗 [View]() | ⬇️ [Download]() |
 | Basic Data Analysis             | 🔗 [View]() | ⬇️ [Download]() |
