@@ -70,7 +70,7 @@ By the end of the training, participants will be able to:
 | Module                          | HTML        | PDF             |
 | ------------------------------- | ----------- | --------------- |
 | Introduction to R & Data import export | 🔗 [View](https://leykungetaneh.quarto.pub/introduction-to-r-and-rstudio-8ea6/#/title-slide) | ⬇️ [Download]() |
-| Data Management (dplyr)         | 🔗 [View]() | ⬇️ [Download]() |
+| Data Management (dplyr)         | 🔗 [View](https://yebelay.rbind.io/static/slides/datamanagment/datamanagment_malaria#/title-slide) | ⬇️ [Download]() |
 | Data Visualization (ggplot2)    | 🔗 [View]() | ⬇️ [Download]() |
 | Basic Data Analysis             | 🔗 [View]() | ⬇️ [Download]() |
 | Univariate time series analysis | 🔗 [View]() | ⬇️ [Download]() |
@@ -108,14 +108,6 @@ Please complete both surveys:
 
 -   **For Windows: [Download Rstudio](https://www.rstudio.com/products/rstudio/download/#download)**
 -   **For Mac: [Download Rstudio](https://www.rstudio.com/products/rstudio/download/#download)**
-
----
-
-### Datasets
-
-Download training datasets:
-
-* [yrbss.csv](https://drive.google.com/uc?export=download&id=1CAMbI977y1lYM0RrdTeWiB8eH-WvcD8Q)
 
 ---
 
