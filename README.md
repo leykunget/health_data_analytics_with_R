@@ -71,7 +71,7 @@ By the end of the training, participants will be able to:
 | ------------------------------- | ----------- | --------------- |
 | Introduction to R & Data import export | 🔗 [View](https://leykungetaneh.quarto.pub/introduction-to-r-and-rstudio-8ea6/#/title-slide) | ⬇️ [Download]() |
 | Data Management (dplyr)         | 🔗 [View](https://yebelay.rbind.io/static/slides/datamanagment/datamanagment_malaria#/title-slide) | ⬇️ [Download]() |
-| Data Visualization (ggplot2)    | 🔗 [View]() | ⬇️ [Download]() |
+| Data Visualization (ggplot2)    | 🔗 [View](https://leykungetaneh.quarto.pub/data-visualization-with-ggplot2-b98c/) | ⬇️ [Download]() |
 | Basic Data Analysis             | 🔗 [View]() | ⬇️ [Download]() |
 | Univariate time series analysis | 🔗 [View]() | ⬇️ [Download]() |
 | Reproducible Reporting (Quarto) | 🔗 [View]() | ⬇️ [Download]() |
