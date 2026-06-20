@@ -73,8 +73,8 @@ By the end of the training, participants will be able to:
 | Data Management (dplyr)         | 🔗 [View](https://yebelay.rbind.io/static/slides/datamanagment/datamanagment_malaria#/title-slide) | ⬇️ [Download]() |
 | Data Visualization (ggplot2)    | 🔗 [View](https://leykungetaneh.quarto.pub/data-visualization-with-ggplot2-b98c/) | ⬇️ [Download]() |
 | Basic Data Analysis             | 🔗 [View](https://yebelay.rbind.io/static/slides/datamanagment/day4_basicanalysis_malaria#/title-slide) | ⬇️ [Download]() |
-| Univariate time series analysis | 🔗 [View](https://leykungetaneh.quarto.pub/reproducible-reporting-with-quarto/#/title-slide) | ⬇️ [Download]() |
-| Reproducible Reporting (Quarto) | 🔗 [View]() | ⬇️ [Download]() |
+| Univariate time series analysis | 🔗 [View]() | ⬇️ [Download]() |
+| Reproducible Reporting (Quarto) | 🔗 [View](https://leykungetaneh.quarto.pub/reproducible-reporting-with-quarto/#/title-slide) | ⬇️ [Download]() |
 | Quarto dashboard.               | 🔗 [View]() | ⬇️ [Download]() |
 
 ---
