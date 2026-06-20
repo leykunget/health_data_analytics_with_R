@@ -75,7 +75,7 @@ By the end of the training, participants will be able to:
 | Basic Data Analysis             | 🔗 [View](https://yebelay.rbind.io/static/slides/datamanagment/day4_basicanalysis_malaria#/title-slide) | ⬇️ [Download]() |
 | Univariate time series analysis | 🔗 [View]() | ⬇️ [Download]() |
 | Reproducible Reporting (Quarto) | 🔗 [View](https://leykungetaneh.quarto.pub/reproducible-reporting-with-quarto/#/title-slide) | ⬇️ [Download]() |
-| Quarto dashboard.               | 🔗 [View]() | ⬇️ [Download]() |
+| Quarto dashboard.               | 🔗 [View](https://leykungetaneh.quarto.pub/quarto-dashboards-6137/#/title-slide) | ⬇️ [Download]() |
 
 ---
 
